@@ -2,3 +2,7 @@
 ---
 _extends: .github
 tag-template: emergency-stop-plugin-$NEXT_MINOR_VERSION
+template: |
+  ## Changes
+
+  $CHANGES
