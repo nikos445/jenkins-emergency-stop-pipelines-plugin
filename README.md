@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TODO Describe what your plugin does here
+This plugin adds a button for "Emergency Stop" of jenkins pipelines.
 
 ## Getting started
 
