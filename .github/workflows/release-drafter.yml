@@ -18,6 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         template: |
-          ## What’s Changed
+          ## What's Changed
 
           $CHANGES
